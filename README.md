@@ -1,4 +1,4 @@
-# Hi, I'm Aditya Patil 👋
+# Hi, I'm Aditya👋
 
 ### Full Stack Developer
 
@@ -15,4 +15,4 @@ React.js • JavaScript • Node.js • Express.js • MongoDB • MySQL
 
 ### 🔗 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/patil-aditya-a2a909315/) • [X](https://x.com/PatilAdityaN) • [Instagram](https://www.instagram.com/_adi7ya._/) 
+[LinkedIn](https://www.linkedin.com/in/patil-aditya-a2a909315/)   •   [X](https://x.com/PatilAdityaN)   •   [Instagram](https://www.instagram.com/_adi7ya._/) 

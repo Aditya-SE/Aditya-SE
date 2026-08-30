@@ -15,4 +15,4 @@ React.js • JavaScript • Node.js • Express.js • MongoDB • MySQL
 
 ### 🔗 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/patil-aditya-a2a909315/)  &nbsp;•&nbsp; [X](https://x.com/PatilAdityaN)   &nbsp;• &nbsp;   [Instagram](https://www.instagram.com/_adi7ya._/) 
+[LinkedIn](https://www.linkedin.com/in/patil-aditya-a2a909315/)  &nbsp; &nbsp;  &nbsp;;•&nbsp;  &nbsp;  &nbsp; [X](https://x.com/PatilAdityaN)   &nbsp;  &nbsp; &nbsp;• &nbsp;  &nbsp;  &nbsp;  [Instagram](https://www.instagram.com/_adi7ya._/) 
